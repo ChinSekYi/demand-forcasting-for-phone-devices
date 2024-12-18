@@ -56,3 +56,9 @@ Understanding the time period is critical for analyzing:
 Trends over time (e.g., increase or decrease in claims, churn rate).
 Seasonality (e.g., more claims in specific months).
 Time-based comparisons (e.g., Year-over-Year or Month-over-Month analysis).
+
+
+---
+
+model_age_days vs closing_subs_monthly
+Churn Rate Analysis:
