@@ -1,4 +1,0 @@
-- check what are x and y values. how to do demand forcast
-- Improve data insights report
-- add more plots in EDA
-- Fix TOC
