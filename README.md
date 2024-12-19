@@ -15,8 +15,8 @@
     Using venv:
     ```
     python -m venv dev
-    source dev/bin/activate  #On macOS/Linux
-    source dev/bin/activate  #On Windows
+    source dev/bin/activate  # On macOS/Linux
+    source dev/bin/activate  # On Windows
     ```
 
 3. Install Project Dependencies   
@@ -28,20 +28,11 @@
 - `make install`: Upgrades `pip` and installs the dependencies listed in `requirements.txt`.
 
 ## Usage
-Open the following 4 notebooks:
-  - For Exploratory Data Analysis, Data Cleaning and Data Preprocessing:
-    ```
-    jupyter notebook notebook/EDA.ipynb   
-    ```
-  - For Feature Selection:
-    ```
-    jupyter notebook notebook/FEATURE_SELECTION.ipynb   
-    ```
-  - For Model Training and Evaluation:
-    ```
-    jupyter notebook notebook/MODEL_TRAINING.ipynb   
-    ```
-  - For data insights report
-    ```
-    jupyter notebook notebook/DATA_INSIGHTS.ipynb   
-    ```
+Open the following 4 notebooks in sequence:
+
+| |  Notebook | Purpose| 
+|:---------:|:--------:| :--------:|
+| 1 | EDA.ipynb| Performs Exploratory Data Analysis, Data Cleaning, and Data Preprocessing.|
+| 2 | FEATURE_SELECTION.ipynb| Implements Feature Selection techniques.| 
+| 3 | DATA_INSIGHTS.ipynb|  Generates a report containing Data Insights.| 
+| 4 | MODEL_TRAINING.ipynb| Conducts Model Training and Evaluation.|
