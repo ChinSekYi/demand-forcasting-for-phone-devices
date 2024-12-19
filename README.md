@@ -3,8 +3,8 @@
 ## Installation
 1. Clone the Repository
     ```
-    git clone https://github.com/ChinSekYi/asurion-assignment
-    cd asurion-assignment
+    git clone https://github.com/ChinSekYi/demand-forcasting-for-phone-devices
+    cd demand-forcasting-for-phone-devices
     ```
 
 2. Create and activate virtual environment  
